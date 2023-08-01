@@ -1,0 +1,24 @@
+body {
+    background: linear-gradient(to bottom, rgba(204,229,255), rgba(204,229,255, 0.4));
+    /* background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPQtTYaAj87pAtPH1utTjQCOMpTVxhuL2cg&usqp=CAU") */
+}
+
+#title {
+    color: rgb(186,133,9);
+}
+
+.subtitle {
+    color: rgb(200, 148, 30)
+}
+
+#service-image {
+    height: 400px;
+    width: 70%;
+
+    /* background: url("../img/img-2.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background: linear-gradient(215deg, rgb(94,255,126), rgba(94,255,126,0)); */
+    /* background-size: cover; */
+    background: radial-gradient(circle, red 20%, blue 40%, green 55%);
+}
+
